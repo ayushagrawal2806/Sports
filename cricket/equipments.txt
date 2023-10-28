@@ -1,0 +1,9 @@
+Equipment's used in Cricket are :
+1.Cricket bat
+2.Cricket ball
+3.Cricket Helmet
+4.Gloves For Wicket Keeper
+5.Gloves For Batsman
+6.Cricket Pads
+7.Stumps
+8.Bails
